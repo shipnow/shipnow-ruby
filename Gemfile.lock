@@ -1,0 +1,37 @@
+PATH
+  remote: .
+  specs:
+    shipnow (0.0.1)
+      http
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    addressable (2.4.0)
+    domain_name (0.5.25)
+      unf (>= 0.0.5, < 1.0.0)
+    http (1.0.2)
+      addressable (~> 2.3)
+      http-cookie (~> 1.0)
+      http-form_data (~> 1.0.1)
+      http_parser.rb (~> 0.6.0)
+    http-cookie (1.0.2)
+      domain_name (~> 0.5)
+    http-form_data (1.0.1)
+    http_parser.rb (0.6.0)
+    minitest (5.8.3)
+    rake (10.5.0)
+    unf (0.1.4)
+      unf_ext
+    unf_ext (0.0.7.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minitest (~> 5.0)
+  rake
+  shipnow!
+
+BUNDLED WITH
+   1.11.2
