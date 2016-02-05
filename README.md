@@ -1,4 +1,4 @@
-# Shipnow [![Build Status](https://travis-ci.org/shipnow/shipnow-ruby.svg?branch=master)](https://travis-ci.org/shipnow/shipnow-ruby)
+# Shipnow [![Build Status](https://travis-ci.org/shipnow/shipnow-ruby.svg?branch=master)](https://travis-ci.org/shipnow/shipnow-ruby) (WIP)
 
 Ruby Wrapper for the Shipnow API
 
